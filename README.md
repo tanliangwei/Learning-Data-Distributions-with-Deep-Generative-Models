@@ -30,7 +30,7 @@ There are 6 different sub-directories, each with one model.
 5. NYC RNVP 8 - 8 layers of RNVP with batch normalization
 6. NYC RNVP 12 - 12 layers of RNVP with batch normalization
 
-Each of it contains a jupyter notebook. To make the model learn about data distribution and generate samples, run the cells in the notebook sequentially.
+Each of it contains a jupyter notebook. To make the model learn about the data distribution and generate samples, run the cells in the notebook sequentially.
 
 ## 2015 Flight Delays and Cancellation Dataset Experiments
 
@@ -57,4 +57,4 @@ There are 4 different sub-directories, each with one model.
 3. FLIGHT RNVP 8 - 8 layer of RNVP with batch normalization
 4. FLIGHT RNVP 12 - 12 layer of MAF with batch normalization
 
-Each of it contains a jupyter notebook. To make the model learn about data distribution and generate samples, run the cells in the notebook sequentially.
+Each of it contains a jupyter notebook. To make the model learn about the data distribution and generate samples, run the cells in the notebook sequentially.
