@@ -3,7 +3,9 @@
 In this repository, we test the ability of Deep Generative Models to learn the distributions of datasets. We got our models to learn and generate 2 different datasets. One is conducted on the New York City Taxi Trip Duration Dataset and the other one is the 2015 Flight Delays and Cancellation Dataset. The links are listed below.
 
 [https://www.kaggle.com/c/nyc-taxi-trip-duration/data](https://www.kaggle.com/c/nyc-taxi-trip-duration/data)
+
 [https://www.kaggle.com/usdot/flight-delays](https://www.kaggle.com/usdot/flight-delays)
+
 
 ## New York City Taxi Dataset Experiments
 
